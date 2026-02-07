@@ -13,7 +13,7 @@ carts, and customer orders for a fictional dive-equipment business.
 ```
 10-InvoiceExample/
   Data/
-    dbdemos.mdb    - Original Borland DBDEMOS database (MS Access / Jet4)
+    dbdemos.mdb    - Original Borland DBDEMOS database (MS Access / Jet4, not provided) 
     Project10.db   - SQLite3 database (mORMot2 ORM, migrated from DBDEMOS)
     rgdata.pas     - ORM model definitions (Object Pascal)
 ```
